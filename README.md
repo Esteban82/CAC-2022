@@ -5,3 +5,5 @@ Webinar presentado en el [Centro Argentino de Cartografía](https://centroargent
 ### Ver webinar en el canal de [youtube del Centro Argentino de Cartografía](https://www.youtube.com/watch?v=tXKto-_HmnM).
 
 Link [presentacion en pdf](https://github.com/Esteban82/CAC-2022/blob/main/Esteban_2022_Webinar%20CAC.pdf).
+
+A quienes hayan visto el webinar, lo invito a completar la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSf3Us3XD0mtk70tDMNuGhfd385omDr3ObRLnWQyyzKHpqo8sQ/viewform?usp=sf_link)
