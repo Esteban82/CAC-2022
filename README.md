@@ -16,4 +16,8 @@ https://github.com/Esteban82/CAC-2022/blob/main/1_Mapamundi_Politico/Mapamundi_B
 
 ## Algunos de los mapas elaborados en el webinar
 
-![`CAC-2022/blob/main/webinar/1_Mapamundi_Politico/Mapamundi_BackUp.png`](webinar/Mapamundi_BackUp.png)
+![`CAC-2022/blob/main/1_Mapamundi_Politico/Mapamundi_BackUp.png`](1_Mapamundi_Politico/Mapamundi_BackUp.png)
+![`CAC-2022/blob/main/2_Mapa_IGN/Arg_IGN_BackUp.png`](2_Mapa_IGN/Arg_IGN_BackUp.png)
+![`CAC-2022/blob/main/3_Mapa_Fisico-Satelital/Mapa_Fisico-Satelital.png`](3_Mapa_Fisico-Satelital/Mapa_Fisico-Satelital.png)
+![`CAC-2022/blob/main/4_Bloque3D/Bloque3D.png`](4_Bloque3D/Bloque3D.png)
+
