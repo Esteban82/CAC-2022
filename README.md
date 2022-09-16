@@ -7,3 +7,13 @@ Webinar presentado en el [Centro Argentino de Cartografía](https://centroargent
 Link [presentacion en pdf](https://github.com/Esteban82/CAC-2022/blob/main/Esteban_2022_Webinar%20CAC.pdf).
 
 A quienes hayan visto el webinar, le agradezco si puede completar la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSf3Us3XD0mtk70tDMNuGhfd385omDr3ObRLnWQyyzKHpqo8sQ/viewform?usp=sf_link).
+
+# Mapas creados en la presentación
+
+## Ejemplo 
+
+https://github.com/Esteban82/CAC-2022/blob/main/1_Mapamundi_Politico/Mapamundi_BackUp.png
+
+## Algunos de los mapas elaborados en el webinar
+
+![`CAC-2022/blob/main/webinar/1_Mapamundi_Politico/Mapamundi_BackUp.png`](webinar/Mapa1.png)
