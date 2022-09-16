@@ -1,0 +1,24 @@
+#Longitud	Latitud		Ciudad		Provincia
+-57.95453	-34.92145	La Plata	Buenos Aires
+-65.78524	-28.46957	San Fernando del Valle de Catamarca	Catamarca
+-58.98389	-27.46056	Resistencia	Chaco
+-65.10228	-43.30016	Rawson	Chubut
+-64.18105	-31.41350	Córdoba	Córdoba
+-58.8344	-27.46784	Corrientes	Corrientes
+-60.52897	-31.73271	Paraná	Entre Ríos
+-58.17313	-26.18489	Formosa	Formosa
+-65.29712	-24.19457	San Salvador de Jujuy	Jujuy
+-64.28333	-36.61667	Santa Rosa	La Pampa
+-66.85067	-29.41105	La Rioja	La Rioja
+-68.82717	-32.89084	Mendoza	Mendoza
+-55.89608	-27.36708	Posadas	Misiones
+-68.0591	-38.95161	Neuquén	Neuquén
+-62.99668	-40.81345	Viedma	Río Negro
+-65.41166	-24.7859	Salta	Salta
+-68.53639	-31.5375	San Juan	San Juan
+-66.33563	-33.29501	San Luis	San Luis
+-69.23333	-51.63333	Río Gallegos	Santa Cruz
+-60.70868	-31.64881	Santa Fe	Santa Fe
+-64.26149	-27.79511	Santiago del Estero	Santiago del Estero
+-68.31591	-54.81084	Ushuaia	Tierra del Fuego, Antártida e Islas del Atlántico Sur
+-65.2226	-26.82414	San Miguel de Tucumán	Tucumán
