@@ -8,12 +8,6 @@ Link [presentacion en pdf](https://github.com/Esteban82/CAC-2022/blob/main/Esteb
 
 Quien haya visto el webinar, le agradezco si puede completar la siguiente [encuesta](https://docs.google.com/forms/d/e/1FAIpQLSf3Us3XD0mtk70tDMNuGhfd385omDr3ObRLnWQyyzKHpqo8sQ/viewform?usp=sf_link).
 
-# Mapas creados en la presentación
-
-## Ejemplo 
-
-https://github.com/Esteban82/CAC-2022/blob/main/1_Mapamundi_Politico/Mapamundi_BackUp.png
-
 ## Algunos de los mapas elaborados en el webinar
 
 ![`CAC-2022/blob/main/1_Mapamundi_Politico/Mapamundi_BackUp.png`](1_Mapamundi_Politico/Mapamundi_BackUp.png)
